@@ -48,6 +48,7 @@
 		00D451EB273434CF00498E60 /* ARDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00D451EF273434CF00498E60 /* ARDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARDemoUITests.swift; sourceTree = "<group>"; };
 		00D451F1273434CF00498E60 /* ARDemoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARDemoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		00D451FE2734370400498E60 /* yt5s.com-1 min by cartoon(360p).mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "yt5s.com-1 min by cartoon(360p).mp4"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				00D451CF273434CA00498E60 /* AppDelegate.swift */,
+				00D451FE2734370400498E60 /* yt5s.com-1 min by cartoon(360p).mp4 */,
 				00D451D1273434CA00498E60 /* art.scnassets */,
 				00D451D3273434CA00498E60 /* ViewController.swift */,
 				00D451D5273434CA00498E60 /* Main.storyboard */,
